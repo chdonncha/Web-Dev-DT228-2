@@ -1,0 +1,44 @@
+<car_service_invoice>
+ <part>
+  <serial>1</serial>
+  <name>Engine Oil SAE 30</name>
+  <quantity>4</quantity>
+  <specifications>
+   <type>Litres</type>
+   <price unit="dollar">7.00</price>
+  </specifications>
+   <amount unit="dollar">28.00</amount>
+  </part>
+   <part>
+    <serial>2<serial/>
+	<name>Spark Plugs<name/>
+	<quantity>4<quantity/>
+	<specifications>
+	 <type unit="litres"/>
+	 <price unit="dollar"/>
+	</specifications>
+	<amount/>
+   </part>
+   <part>
+    <serial>3<serial/>
+	<name>Air Filter<name/>
+	<quantity>1<quantity/>
+	<specifications>
+	 <type unit="litres"/>
+	 <price unit="dollar"/>
+	</specifications>
+	<amount/>
+	</part>
+	<part>
+	 <serial>4<serial/>
+	 <name>Coolant<name/>
+	 <quantity>14<quantity/>
+	 <specifications>
+	  <type unit="litres"/>
+	  <price unit="dollar"/>
+	 </specifications>
+	 <amount/>
+	 </part>
+	 <labour_charge/>
+	 <total/>
+	</car_service_invoice>
